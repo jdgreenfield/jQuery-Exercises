@@ -1,3 +1,3 @@
-$console.log(jQuery);
-	$alert.
-
+$(document).ready(function($){
+	console.log("hello world")
+});
